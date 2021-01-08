@@ -1,16 +1,15 @@
-### Hi there 👋
+## ◼ Hola!
+___
 
-<!--
-**restartdap/restartdap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Cyrodiil Pixel Banner](https://coverfiles.alphacoders.com/984/98460.png "Cyrodiil Pixel Banner")
 
-Here are some ideas to get you started:
+Soy un estudiante que le gusta aprender nuevas tecnologías y desarrollar aplicaciones web. 
+He realizado aplicaciones MVC y APIs REST con ASP .NET Core y Node/Express.
+Actualmente estoy realizando proyectos personales y estoy aprendiendo React, Wordpress y Laravel. Interesado en el desarrollo web fullstack y data science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ◼ Proyectos que estoy realizando
+* [Creanovel](github.com/restartdap/creanovel)
+
+## ◼ Contacto
+* [Twitter](https://twitter.com/restartdap)
+* [LinkedIn](https://www.linkedin.com/in/rafael-estrada/)
