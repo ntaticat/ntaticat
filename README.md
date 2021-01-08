@@ -1,5 +1,4 @@
 ## ◼ Hola!
-___
 
 ![Cyrodiil Pixel Banner](https://coverfiles.alphacoders.com/984/98460.png "Cyrodiil Pixel Banner")
 
