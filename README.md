@@ -7,9 +7,9 @@ He realizado aplicaciones MVC y APIs REST con ASP .NET Core y Node/Express.
 Actualmente estoy realizando proyectos personales y estoy aprendiendo React, Wordpress y Laravel. Interesado en el desarrollo web fullstack y data science.
 
 ## ◼ Proyectos que estoy realizando
-* [Creanovel](github.com/restartdap/creanovel)
-* [Organizador de Folios](github.com/restartdap/organizador-folios)
+* [Creanovel](https://www.github.com/restartdap/creanovel)
+* [Organizador de Folios](https://www.github.com/restartdap/organizador-folios)
 
 ## ◼ Contacto
-* [Twitter](https://twitter.com/restartdap)
+* [Twitter](https://www.twitter.com/restartdap)
 * [LinkedIn](https://www.linkedin.com/in/rafael-estrada/)
