@@ -3,7 +3,7 @@
 ![Cyrodiil Pixel Banner](https://coverfiles.alphacoders.com/984/98460.png "Cyrodiil Pixel Banner")
 
 Soy un estudiante que le gusta aprender nuevas tecnologías y desarrollar aplicaciones web. 
-He realizado aplicaciones MVC y APIs RESTful con Node/Express ASP .NET Core y PHP.
+He realizado aplicaciones MVC y APIs RESTful con Node/Express, ASP .NET Core y PHP.
 Actualmente estoy realizando proyectos personales y estoy aprendiendo React y Laravel. 
 
 ## ◼ Proyectos que estoy realizando
