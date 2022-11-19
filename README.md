@@ -2,17 +2,17 @@
 ### 🐧🐧🐧 Hola! 🐧🐧🐧  
 ![Cyrodiil Pixel Banner](img/CyrodiilPixelBanner.png "Cyrodiil Pixel Banner")
 
-## <span>✨ Rafael Estrada, desarrollador de software y estudiante. ✨</span>
+## <span>✨ Rafael Estrada, Software Developer ✨</span>
 Me gusta aprender, poner en práctica los aprendizajes adquiridos y solucionar problemas, por eso me encanta el desarrollo de software.  
 Actualmente estoy realizando aplicaciones web como proyectos personales con tecnologías como Angular, React, Vue, ASP .NET Core y ExpressJs.
-Aprendiendo desarrollo móvil híbrido con Flutter y Cloud Computing con MS Azure.
+Aprendiendo desarrollo móvil híbrido con Flutter y Cloud Computing con Microsoft Azure y Google Cloud Platform.
 
 ## 🔸 <span>Proyectos más importantes que estoy realizando</span>
 | Nombre | Descripción | Tecnologías |
 | :---: | :---: | :---: |
-| <h3>*ConejitoCommerce*</h3> | <p>Aplicación para la gestión de ventas de productos</p> | <small>REACT REDUX NODEJS EXPRESSJS MONGODB</small> |
-| <h3>*CreaNovel*</h3> | <p>Aplicación para crear novelas visuales</p> | <small>ANGULAR NGRX ASPNETCORE SQLSERVER</small> |
-| <h3>*DocTheSolve*</h3> | <p>Aplicación de soporte técnico relacionado al mantenimiento de cómputo</p> | <small>VUE ASPNETCORE SIGNALR</small> |
+| <h3>*ConejitoCommerce*</h3> | <p>Proyecto web para la gestión de ventas de productos</p> | <small>REACT REDUX NODEJS EXPRESSJS MONGODB</small> |
+| <h3>*CreaNovel*</h3> | <p>Proyecto web para crear novelas visuales</p> | <small>ANGULAR NGRX ASPNETCORE SQLSERVER</small> |
+| <h3>*DocTheSolve*</h3> | <p>Proyecto web help desk para instituciones educativas con aulas de cómputo</p> | <small>VUE ASPNETCORE SIGNALR</small> |
 
 ## 🔸 <span>Links de los repositorios de mis proyectos</span>
 * [ConejitoCommerce (SPA)](https://github.com/ntaticat/conejito-commerce)
